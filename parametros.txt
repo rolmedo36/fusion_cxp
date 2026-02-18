@@ -1,0 +1,4 @@
+facturas.csv,/Custom/ESGARI/AP/FACTURAS/XX_RO_FACTURAS_REP.xdo
+pagos.csv,/Custom/ESGARI/AP/FACTURAS/XX_RO_PAGOS_REP.xdo
+impuestos.csv,/Custom/ESGARI/AP/FACTURAS/XX_RO_IMPUESTOS_REP.xdo
+fact_requi.csv,/Custom/ESGARI/AP/FACTURAS/XX_RO_FACTURA_REQUI_REP.xdo
