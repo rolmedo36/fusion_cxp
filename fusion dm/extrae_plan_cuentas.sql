@@ -1,0 +1,15 @@
+SELECT 
+    ffv5.FLEX_VALUE AS CUENTA_NUM,
+    ffvt5.DESCRIPTION AS CUENTA_DESCRIPCION
+FROM 
+    FND_FLEX_VALUE_SETS ffvs5,
+    FND_FLEX_VALUES ffv5,
+    FND_FLEX_VALUES_TL ffvt5
+WHERE 
+    ffvs5.FLEX_VALUE_SET_NAME = 'Cuenta CORPORATIVO'
+    AND ffvs5.FLEX_VALUE_SET_ID = ffv5.FLEX_VALUE_SET_ID
+    AND ffv5.FLEX_VALUE_ID = ffvt5.FLEX_VALUE_ID
+    AND ffvt5.LANGUAGE = 'E' -- Filtro de idioma español según tu código
+    AND ffv5.ENABLED_FLAG = 'Y'
+ORDER BY 
+    ffv5.FLEX_VALUE

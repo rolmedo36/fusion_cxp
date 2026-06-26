@@ -1,0 +1,6 @@
+core_invoices.csv,/Custom/ESGARI/AP/auditor/jun2026/core_invoices_rep.xdo
+payments_ers.csv,/Custom/ESGARI/AP/auditor/jun2026/payments_ers_rep.xdo
+distributions_rep.csv,/Custom/ESGARI/AP/auditor/jun2026/distributions_rep.xdo
+payments_applied_rep.csv,/Custom/ESGARI/AP/auditor/jun2026/payments_applied_rep.xdo
+taxes_rep.csv,/Custom/ESGARI/AP/auditor/jun2026/taxes_rep.xdo
+withholding.csv,/Custom/ESGARI/AP/auditor/jun2026/withholding_rep.xdo

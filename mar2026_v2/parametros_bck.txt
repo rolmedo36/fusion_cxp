@@ -1,0 +1,6 @@
+facturas.csv,/Custom/ESGARI/AP/auditor/XX_RO_CORE_INVOICES_REP.xdo
+pagos.csv,/Custom/ESGARI/AP/auditor/XX_RO_PAYMENTS_REP.xdo
+pagosaplicados.csv,/Custom/ESGARI/AP/auditor/XX_RO_PAYMENTS_APPLIED_REP.xdo
+distribuciones.csv,/Custom/ESGARI/AP/auditor/XX_RO_DISTRIBUTIONS_REP.xdo
+taxes.csv,/Custom/ESGARI/AP/auditor/XX_RO_TAXES_REP.xdo
+prepayments_ers.csv,/Custom/ESGARI/AP/auditor/XX_RO_PREPAYMENTS_ERS_REP.xdo
